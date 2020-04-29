@@ -1,0 +1,661 @@
+[
+  {
+    "address": "深圳市龙岗区龙城街道爱联社区新寮路1-5号104",
+    "averagePriceTip": "人均 ¥41",
+    "deliveryTimeTip": "59分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "9.6km",
+    "minPriceTip": "起送 ¥0",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/ee844c45942097cd040e51dd97f21bbf31653.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "辣尚烧烤·龙虾·秘制虾尾",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "平湖横岭路23号（平湖中学后门与蒲公英幼儿园中间段）",
+    "averagePriceTip": "人均 ¥16",
+    "deliveryTimeTip": "58分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "9.6km",
+    "minPriceTip": "起送 ¥0",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/9ada790d86d15fa7b715618467bafd9824576.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "丰顺捆粄（横岭路店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "深圳市龙岗区平湖街道凤凰社区横岭路36号102",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/4e8a42be14365382f1ca0a5274226ec947104.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "重庆老宋麻辣烫",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "平湖街道守珍街336号",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/57fe7b455cf1cfb5be20e135394863b3170690.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "陈记隆江猪脚饭（平湖店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "深圳市龙岗区平湖街道凤凰社区新立街1号楼第B06号",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/business/0691db1f18c83c68170f7842e661aeed278688.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "曾记柳州螺蛳粉（平湖店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "东莞市凤岗镇雁田村祥新中路拈领道16号",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/wmproduct/3efcfd00d87350bc3286062b48d7d615430851.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "kao!脆皮鸡烤肉饭(雁田店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "广东省东莞市凤岗镇镇田中路31号101室",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/7227a1698c5a4e2ff4b792f9dbb8e1da1093475.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "正宗柳州螺蛳粉（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "深圳市龙岗区平湖街道禾花社区花果山小区五巷7号101商铺",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满99元赠送麻辣田螺",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/de5d6b1cf79761715e5446d45af4e64a84747.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "卡兹克",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "深圳市龙岗区平湖街道凤凰社区守珍街318-334号（一楼328号之一）",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返10元商家代金券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售5000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/64b1b6497db6808e72ff2ff3c9652ac7142013.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "桶桶香·木桶饭（平湖店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "东莞市凤岗镇官井头村商业西一街3号",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满25减25;满50减40;满100减80;满150减130;满200减180",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/e38639b05c13bd9874fa3ff162f2d124240662.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "巷子里.奶茶",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "平湖街道北门街2-19号",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/2024644764ddf185e5ddc721cecd63d1507795.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "牧哥酸辣粉螺蛳粉烧烤",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "深圳市龙岗区平湖街道凤凰社区新园路6号",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/89bc42ada997d512ea6eb456961202c3231208.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "饭戒（平湖店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "平湖街道凤凰社区顺昌街3号D08（凤凰美食街内）",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/9999a955b5938ff5b2413c6fd4b18ab81062303.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "御品记炒饭（炒饭，炒米粉）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "东莞市凤岗镇雁田村怡安中路第一座一号铺",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/c74d12aabf33fc2bf42c0bcfad23f82799360.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "仟福粥城（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "广东省东莞市凤岗镇镇田北路26号103室",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满18减7;满28减14;满45减20;满68减25;满88减35",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领2元券;领5元券;领8元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/e9ee836703a0a6bda7634a9825f08dcc179712.png",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "1号粥店（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "深圳市龙岗区平湖街道平湖社区湖新街88号黄洪茂厂房A栋105",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满18减7;满28减14;满45减20;满68减25;满88减35",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领2元券;领5元券;领8元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/b0d03c20733f8ca8ced5434909f4611399535.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "秘觉（平湖店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "广东省东莞市凤岗镇沙田垅路33号101室",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满18减7;满28减14;满45减20;满68减25;满88减35",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领2元券;领5元券;领8元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/322df60c19ced5925e3eccf993da4ad5238197.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "粥多点（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "东莞市凤岗镇雁田丰田酒店前行80米",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满18减7;满28减14;满45减20;满68减25;满88减35",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领2元券;领5元券;领8元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/xianfu/b9f9daecbae15c3ce1975e1a5770eba436467.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "真功夫（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "东莞市凤岗雁田祥新中路第一座109号华莱士餐厅",
+    "averagePriceTip": "人均 ¥20",
+    "deliveryTimeTip": "57分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满18减7;满28减14;满45减20;满68减25;满88减35",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领2元券;领5元券;领8元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "937609745254127",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/adf54581bba7095a1c166481eba4245a42920.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "00:00-05:00,10:55-23:59",
+    "shopName": "华莱士·全鸡汉堡(凤岗镇田店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  }
+]

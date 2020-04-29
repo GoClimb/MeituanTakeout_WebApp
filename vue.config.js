@@ -2,10 +2,17 @@ module.exports = {
   devServer: {
     proxy: {
       '/api': {
-        target: 'https://m.study.163.com/',
+        target: '/',
         changeOrigin: true,
         pathRewrite: {
           '^/api': ''
+        }
+      },
+      '/meituan': {
+        target: 'https://i.waimai.meituan.com',
+        changeOrigin: true,
+        pathRewrite: {
+          '^/meituan': ''
         }
       }
     }

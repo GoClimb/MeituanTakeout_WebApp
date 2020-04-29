@@ -35,6 +35,10 @@ const routes = [
     component: () => import('@/views/Menu')
   },
   {
+    path: '/search',
+    component: () => import('@/views/Search')
+  },
+  {
     path: '/',
     redirect: '/home'
   }

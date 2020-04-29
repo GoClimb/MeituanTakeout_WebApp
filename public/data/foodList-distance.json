@@ -1,0 +1,566 @@
+[
+  {
+    "address": "东莞市凤岗镇雁田村东深中路80号水岸豪门7栋商铺106",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/2db7ceeccd34729cd2eb1814c76411ab147456.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "和记潮汕砂锅粥",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "雁田村东深中路80号水岸豪门7栋商铺06",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "73m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售22",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/585ffc4baccc05da80d15daa0f2503e9225280.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "汕头福合埕牛肉店（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "东莞市雁田村东深中路80号水岸豪门7栋商铺04、05号(水岸豪门后门停车场岗亭对面)",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品7.2折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付90元返商家代金券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "73m",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售63",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/6c7fc07fc019568a1564b4085f8635cd45056.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "熊姐地道湖北菜馆(小龙虾)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "广东省东莞市凤岗镇雁田新园北路26号103室",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "https://p0.meituan.net/waimaipoi/6c20857a117fecd239909ae8c28fe3a3290816.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "欢仔猪杂粥",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "东莞市凤岗镇雁田村东深中路80号水岸豪门6栋商铺01、02",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/96799b8f9682bb8c9f4dfb22dfe3939c398292.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "Denny cafe（等你咖啡）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "广东省东莞市凤岗镇凤深大道368号1037室（小木屋芳馨花屋旁）",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/51a47cc1e52127ab0dfcbd40f224f3b959411.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "花花肥牛饭",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "东莞市凤岗镇雁田村新园北路16号A商铺",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "161m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售2;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/353a49c77bda6bba6b1c808614231f7620480.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3.5",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "美客通",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "东莞市凤岗镇雁田村东深路东侧水岸豪门14栋商铺9、10号",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/5d13f03b5da225e340ff3ed18dcbaf66161514.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "圣安哥中西餐厅",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 4.5
+  },
+  {
+    "address": "东莞市凤岗镇雁田村北园中路吉园道十二巷6号",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/fc028514ba1f132b6930953404cf3e0534816.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "鱼乐圈（烤鱼鸡煲海鲜锅）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "广东省东莞市凤岗镇雁田新园北路14号104室",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/2d8bfb35d6f941918a3382754cde94a773420.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "潮汕郑记原味汤粉王（汤粉、肠粉、快餐）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "广东省东莞市凤岗镇雁田新园北路3号铺",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/16fd93ae9f75efb6b1352f4f962bedf73624.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "美宜佳（新园北路D688店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "广东省东莞市凤岗镇凤深大道368号1175室",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/811323b29b087b144ff56f1cb9b7f6f138912.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "一品鲜挪威三文鱼专卖店",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "广东省东莞市凤岗镇雁田吉园路十四巷3号103室",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "https://p1.meituan.net/waimaipoi/c5ed504b1ee5352364b24f3512eb011018432.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "131爱便捷生活超市（景龙湾畔店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "广东省东莞市凤岗镇雁田吉园路六巷2号102室",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/edaee0b270d683af74becff147ea463d378880.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "正宗营山米粉",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "东莞市凤岗镇雁田村东深中路80号水岸豪门9栋09铺",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/218784bce2d6c7460071cc50ae30214d41378.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "花果鲜（水岸豪门店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "东莞市凤岗镇雁田村东深中路80号水岸豪门10栋商铺05",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 5,
+        "iconUrl": "http://p0.meituan.net/activityconfig/dfb8be4fc2eb746ecbc4c1485dba635a1127.png",
+        "info": "满28元赠送赠饮品一杯，满赠区自选",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/business/53c66308f32abeee572d376f0e1ad4fd82498.png",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "重庆面庄（水岸豪门店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "东莞市凤岗镇雁田水岸豪门1栋101商铺",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/16fd93ae9f75efb6b1352f4f962bedf73624.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "美宜佳（水岸豪门G511店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "东莞市凤岗镇雁田村东深中路80号水岸豪门10栋商铺07",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p1.meituan.net/waimaipoi/0e4226261123a6bc9b1e4fef88fd2038123096.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "piglet猪扒包",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "东莞市凤岗镇雁田村东深中路80号水岸豪门10栋商铺09",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/business/5834a662779959dade186faa6f22b784199908.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "野木烧烤（雁田水岸豪门店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  },
+  {
+    "address": "广东省东莞市凤岗镇凤深大道313号108室",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "12m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售17;",
+    "mtWmPoiId": "967137645391785",
+    "origin_shipping_fee_tip": "",
+    "picUrl": "http://p0.meituan.net/waimaipoi/99aa1c1233c038b1ff3649a489c93b8b74939.jpg",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "00:00-02:00,17:00-23:59",
+    "shopName": "客家园",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 3.7
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "header": [
+    {
+      "filterId": "-7",
+      "icon": "http://p0.meituan.net/jungle/0c61c293ed906c70ef4d0e041b187ace1280.png",
+      "name": "美团专送"
+    }
+  ],
+  "Businessfeatures":[
+    {
+      "filterId": "-3",
+      "icon": "",
+      "name": "免配送费"
+    },
+    {
+      "filterId": "-4",
+      "icon": "",
+      "name": "0元起送"
+    },
+    {
+      "filterId": "-8",
+      "icon": "",
+      "name": "新商家"
+    },
+    {
+      "filterId": "-9",
+      "icon": "",
+      "name": "品牌商家"
+    },
+    {
+      "filterId": "51",
+      "icon": "",
+      "name": "点评高分"
+    },
+    {
+      "filterId": "511",
+      "icon": "",
+      "name": "跨天预订"
+    },
+    {
+      "filterId": "-5",
+      "icon": "",
+      "name": "支持开发票"
+    }
+  ],
+  "Discount": [
+    {
+      "filterId": "-1",
+      "icon": "http://p1.meituan.net/xianfu/68d64dd10b1498f5067a1c03e6d24869624.png",
+      "name": "优惠商家"
+    },
+    {
+      "filterId": "1",
+      "icon": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+      "name": "首单立减"
+    },
+    {
+      "filterId": "2",
+      "icon": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+      "name": "满减优惠"
+    },
+    {
+      "filterId": "1109",
+      "icon": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+      "name": "进店领券"
+    },
+    {
+      "filterId": "1121",
+      "icon": "http://p0.meituan.net/xianfu/0c89ff7d86aa47827e62afa6d41a15f5535.png",
+      "name": "第二份半价"
+    },
+    {
+      "filterId": "1014",
+      "icon": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+      "name": "满返代金券"
+    },
+    {
+      "filterId": "1001",
+      "icon": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+      "name": "折扣商品"
+    },
+    {
+      "filterId": "296",
+      "icon": "http://p0.meituan.net/xianfu/538a2adfab46a37ec42853aece765704603.png",
+      "name": "提前下单优惠"
+    },
+    {
+      "filterId": "26",
+      "icon": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+      "name": "满赠活动"
+    },
+    {
+      "filterId": "1179",
+      "icon": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+      "name": "门店新客立减"
+    },
+    {
+      "filterId": "23",
+      "icon": "http://p1.meituan.net/xianfu/04d485a1b8e040bff21c02c19a9731d92048.png",
+      "name": "买赠活动"
+    },
+    {
+      "filterId": "25",
+      "icon": "http://p0.meituan.net/xianfu/10d0777e47844ea90b89d23c01eabe3c1164.png",
+      "name": "减配送费"
+    }
+  ]
+
+}
