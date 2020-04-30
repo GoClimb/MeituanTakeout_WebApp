@@ -1,0 +1,562 @@
+[
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品1折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付28元返3元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.4km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/business/5a3fa73059a8cef1d304c5894bb7cf7b365942.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "吉茶道（雁田店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥12",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品1折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付28元返3元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "2.1km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/wmproduct/1c9f7bc2aa22380187a114a412ae607258605.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4.5",
+    "shipping_time": "",
+    "shopName": "世代皇茶（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥12",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+    ],
+    "distance": "2.1km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/2d40700e3f7f09b9fcb31612c269c48757202.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4.5",
+    "shipping_time": "",
+    "shopName": "糖水里糖水铺",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥12",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品1折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付28元返3元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "4.8km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/9c0f1bbc92a3c09b31333953a292fc8628850.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5.5",
+    "shipping_time": "",
+    "shopName": "四季阳光茶坊(奶茶，甜品，小吃)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥18",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "2.1km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/waimaipoi/0c891ff1f172b15c5a68df8a3318759a22885.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "一芳台湾水果茶（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 42
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥12",
+    "deliveryTimeTip": "55分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品0.01折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付28元返3元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.1km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/cca0d4e32d416cd7c386e853d1807c22263941.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "夜间配送 ¥8",
+    "shipping_time": "",
+    "shopName": "贡茶GONGTEA",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥17",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品0.01折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付28元返3元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售300+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/waimaipoi/50cdb287458130643352754778c0950876674.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "化州糖水-甜蜜如初恋(京州店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥9",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品0.01折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付28元返3元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售18",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/business/0c73892f2ffec4392370c0ddc2a8e3fb225516.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "悸冻(奶茶•茶饮)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0.0
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/d0392d4af03a8688b922abd9e1f08154166800.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "大口九",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/e38639b05c13bd9874fa3ff162f2d124240662.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "巷子里.奶茶",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 48
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/bc8415b4f7f67bd2d353e46b953e1d1852126.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "化州糖水(布心店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/2648e5e4fc019698b7d66f4f9d7f9a27142465.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "惯茶(布心店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/waimaipoi/990abc8679e34d5beb44e327b741d38b7404.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "舞茶道复合式轻食馆(雁田UV店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/7a8ea3f97ee9458630d88002f5c20f1324163.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "叮当蛋糕店",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/e7c23642f73a374bc42ef27a6171ce3c22311.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "乐享贡茶（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/waimaipoi/96799b8f9682bb8c9f4dfb22dfe3939c398292.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "Denny cafe（等你咖啡）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p1.meituan.net/business/c136e52252def28e53875fb67fef2f04166563.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "亿和品茶轩",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/cc77a21667c2ef579e10b31fb682dc58125131.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "涵妈甜谷五谷豆花",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥15",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5.38折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售500+",
+    "mtWmPoiId": "1124174534737013",
+    "picUrl": "http://p0.meituan.net/business/2ad066f64eb8418f70f827aa851e05bb54588.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "酷客烘焙坊蛋糕",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  }
+]

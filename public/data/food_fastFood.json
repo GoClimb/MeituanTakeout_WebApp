@@ -1,0 +1,516 @@
+[
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥31",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满50减20",
+        "promotionType": 2
+      },
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3.41折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "2.0km",
+    "minPriceTip": "起送 ¥5",
+    "monthSalesTip": "月售2000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/xianfu/b9f9daecbae15c3ce1975e1a5770eba436467.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥7",
+    "shipping_time": "",
+    "shopName": "真功夫（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥31",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "544m",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p1.meituan.net/waimaipoi/fedff3419d38f2d56a147fbdd1c7b63432768.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "龙江饺子馆",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "456m",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售800+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/c48687e4280d022fd9d44d0f5868f64f915435.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "源林餐厅",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/business/52bd39ade48f5d41c5fbbaac4d6efb5c372309.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "膳心记-明火四宝煲仔饭",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/e458c0dcb93469a76f65dc35477ee64277663.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "泗和祥兴烧鹅（雁田第四店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p1.meituan.net/business/5eaae13cf8def22c5a19c32d1cedde34859520.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "浏阳河湘菜馆（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 37
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/d764916b27d9b0ee8fbbee29c9cb27ca348160.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "田记特迎快餐店",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p1.meituan.net/business/dc503df0fc6f5c7c223eb577d493c1df574920.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "普宁鲜牛肉店（汤粉炒粉）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/a762c98e29d8895571b8044fda7c066d86745.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "台资味·卤肉饭（东莞凤岗雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 45
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥29",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/business/cde428fb164535355e43cbcb3bc96cc4139458.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "友记茶餐厅",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 45
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥23",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.3km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/business/26c653bb141cc1ffd6552db43b8a7bb8446534.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "粥宫1号（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 45
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥23",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.3km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p1.meituan.net/waimaipoi/8a23565290f3ebb52f4b08a03dd54d1e264192.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "一品香木桶饭",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥23",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.3km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/d5b373f7c46c0846d9da18554d9dc4fb30720.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "老上海馄钝王（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥21",
+    "deliveryTimeTip": "35分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "3.0km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p1.meituan.net/waimaipoi/8fc67bd4ebfc9c803f07e46c0a8a3a5826624.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "正宗化州香油鸡饭店",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 41
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥21",
+    "deliveryTimeTip": "35分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "3.0km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售1000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/451fd3ce8987db42821918f0b28329d256272.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "潇湘故里木桶饭（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 41
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥22",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "3.0km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售4000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/wmproduct/3efcfd00d87350bc3286062b48d7d615430851.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "kao!脆皮鸡烤肉饭(雁田店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥22",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "3.0km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售4000+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/5ad58478f39a507291e54fa68bc9deb236864.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "湛香白切鸡烧鹅(雁田分店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥32",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "2.4km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p1.meituan.net/waimaipoi/3258c3a313abf2d9bcc23323bec332cd51883.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "欢聚此刻（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥32",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "2.4km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0d6c1890e590ed1852d01acdebd6426732768.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "金运来茶餐厅",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥32",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品2.48折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "962m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "1117616119674344",
+    "picUrl": "http://p0.meituan.net/waimaipoi/1822c717ff62c768a29b620d783f5636120440.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥0",
+    "shipping_time": "",
+    "shopName": "潮州饭店",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 47
+  }
+]

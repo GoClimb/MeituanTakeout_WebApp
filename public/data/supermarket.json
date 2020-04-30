@@ -1,0 +1,496 @@
+[
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.71折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "197m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/16fd93ae9f75efb6b1352f4f962bedf73624.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "美宜佳（新园北路D688店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "40分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.71折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "4.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售19",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/17fd382ed25aa8cc68a5e10bc34e1cd924820.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "张新发槟榔（深圳平湖店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0.0
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.71折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.3km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/business/6c57cd5ed09ea126bc86887ecc86d593229197.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "BESTARRIVE百思达（龙湖花园店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.71折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.3km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/f6c07a9fab4e487800a384dd968cd54f58483.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "黄河百货（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "45分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.71折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "5.3km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/8cf15bd96425f91819b2b16c6356f5c228667.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "711便利店(新生活广场7076店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "50分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "6.3km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p1.meituan.net/business/f50a98c6b2e91a3446335b7403b23a16177354.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "酒特惠酒类连锁（凤岗店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p1.meituan.net/waimaipoi/c8c8524826fefbdcb6b9f5b2646999ff342756.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "黄河贸易有限公司雁田分公司（步行街店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/e24ce01871c5f6b0ca5d784c7b5a156922935.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "天福（1885雁田京州店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p1.meituan.net/waimaipoi/c5ed504b1ee5352364b24f3512eb011018432.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "便利100（水布店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p1.meituan.net/waimaipoi/8a0e1238b7fc973d1089229a07e3c971146630.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "酒仙网国际名酒城（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/16fd93ae9f75efb6b1352f4f962bedf73624.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "美宜佳（新时代城G472店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/17fd382ed25aa8cc68a5e10bc34e1cd924820.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "张新发槟榔（深圳横岗店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "https://p1.meituan.net/waimaipoi/c5ed504b1ee5352364b24f3512eb011018432.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "131爱便捷生活超市（景龙湾畔店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/business/10e2d66804e814a41ccd0a9770d2462857765.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "煌大鲜火锅烧烤食材外卖",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/dc34c68e79da74c8c20c66a3b19892ac69632.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "美好佳(毅兴百货)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/b3004fd50ee308fea6d127307571ffc742062.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "绿源水行",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/d3a73f2d6ea24e1b03c8cd73d79d1ec224576.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "义源饮用水经营部",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p1.meituan.net/waimaipoi/4bfff9c1f48d5839acd204cd6a8e732449659.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "水思源水超市",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品3折起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.7km",
+    "minPriceTip": "",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "866137194507502",
+    "picUrl": "http://p0.meituan.net/waimaipoi/6818ecae8dd9e4569cd05bdffce87922139264.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "龙翔宠物中心",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 50
+  }
+]

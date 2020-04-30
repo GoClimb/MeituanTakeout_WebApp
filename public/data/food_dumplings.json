@@ -1,0 +1,234 @@
+[
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满15减4;满30减7;满45减9",
+        "promotionType": 2
+      },
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返3元商家代金券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "982m",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p0.meituan.net/business/712fd19080d22359ae2bfe36d4248f1696172.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥2.5",
+    "shipping_time": "",
+    "shopName": "刘记正果云吞（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 46
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥19",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满15减4;满30减7;满45减9",
+        "promotionType": 2
+      },
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返3元商家代金券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "1.8km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售900+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p0.meituan.net/waimaipoi/d5b373f7c46c0846d9da18554d9dc4fb30720.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "",
+    "shopName": "老上海馄钝王（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 44
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满15减4;满30减7;满45减9",
+        "promotionType": 2
+      }
+    ],
+    "distance": "454m",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售300+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p1.meituan.net/waimaipoi/1ead9a2d134b4e1ad4ea9a19aab76e21162088.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "富营鲜云吞世家（凤岗二店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 48
+  },
+  {
+    "address": "",
+    "averagePriceTip": "人均 ¥18",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+      {
+        "activityId": 2,
+        "iconUrl": "http://p0.meituan.net/activityconfig/6087b33fd42d14fd94e899084aaef56d1720.png",
+        "info": "满15减4;满30减7;满45减9",
+        "promotionType": 2
+      },
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品5折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付1元返3元商家代金券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "732m",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售600+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p0.meituan.net/business/8f6ab047edb9af20b01cebff9e9509ac492259.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "",
+    "shopName": "爱上美食(重庆小面)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 45
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "1.6km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售600+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p0.meituan.net/waimaipoi/70a423d7d28f73deab1e01168d8aa84185100.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shipping_time": "",
+    "shopName": "沙县小吃（同兴店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0.0
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "50分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "2.7km",
+    "minPriceTip": "起送 ¥20",
+    "monthSalesTip": "月售600+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "https://p0.meituan.net/waimaipoi/37fa43f55df79c0ef4592bfd6523442026624.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shippingTimeInfo": {
+      "descContent": "17:30后配送",
+      "reservationStatus": 0,
+      "statusContent": "接受预订"
+    },
+    "shipping_time": "",
+    "shopName": "爽滑饺子王化州香油鸡",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 0.0
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "776m",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售600+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p0.meituan.net/business/c23b1dd6b59e50fdeb9cc4e62263370c67073.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥3",
+    "shippingTimeInfo": {
+      "descContent": "17:30后配送",
+      "reservationStatus": 0,
+      "statusContent": "接受预订"
+    },
+    "shipping_time": "",
+    "shopName": "沙县小吃(镇田北路27号店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 41
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 0,
+    "discounts2": [
+    ],
+    "distance": "1.5km",
+    "minPriceTip": "起送 ¥15",
+    "monthSalesTip": "月售600+",
+    "mtWmPoiId": "1104641023438666",
+    "picUrl": "http://p1.meituan.net/waimaipoi/46bba31df0067ce741773ed120330be6339634.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥2.5",
+    "shippingTimeInfo": {
+    },
+    "shipping_time": "",
+    "shopName": "潮饺皇",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 41
+  }
+]

@@ -1,5 +1,6 @@
 <template>
   <div class="page-screen">
+
     <div class="page-screen-box" ref='page-screen-box'>
 
       <div class="Screen-main">
@@ -127,7 +128,10 @@ export default {
       }
     },
     screenInfo: {
-      type: Object
+      type: Object,
+      default () {
+        return {}
+      }
     }
   },
 

@@ -14,7 +14,7 @@
 
     <!--  主页商品分类start  -->
     <div class="classify">
-      <a href='javascript:;' v-for="item in classifyList" :key="item.cateId" @click='toClass(item.name)'>
+      <a href='javascript:;' v-for="item in classifyList" :key="item.cateId" @click='toClass(item)'>
         <div class="classify-logo">
           <img :src="item.icon" alt />
         </div>
@@ -83,11 +83,12 @@ export default {
       this.pageIndex.scrollTop = 200
       this.getFoodList(payload)
     },
-    toClass (title) {
+    toClass (item) {
       this.$router.push({
         path: '/food',
         query: {
-          title
+          title: item.name,
+          isShow: item.isShow
         }
       })
     }

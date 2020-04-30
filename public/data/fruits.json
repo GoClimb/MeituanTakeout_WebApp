@@ -1,0 +1,957 @@
+[
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/431b4117fef3d0fbebfeb11f4ae29d0971424.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "百果园(东莞凤岗镇水岸豪门店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "35分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "267m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售400+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/218784bce2d6c7460071cc50ae30214d41378.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥4",
+    "shipping_time": "",
+    "shopName": "花果鲜（水岸豪门店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/business/5e42f57a4675ecac9ea56ff5677a63ad36407.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "鲜果联盟（雁田店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/eaf4139fa37da583eb792b94792657be62615.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "新进优鲜(雁田市场店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/7d5f5217a8d8564e347016b92917637747788.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "菜老包（油甘埔农贸市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0a705a87fe0b25b7645b3f888f679ac071703.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "环球蔬果汇（东莞油甘埔市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/ziruzhu/a89ff20e172ba183ead4d375124732a850641.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "万千生鲜（凤岗店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/b90a161595f658f01dbfccbf1f7d916028660.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "菜小乖（官井头市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/business/b7c9a879f1786e0142f6ef8e5686f2261158833.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "祥发水果商行",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/431b4117fef3d0fbebfeb11f4ae29d0971424.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "百果园(东莞雁田怡安路店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0b06df7c374afbff83f06205e7a01b7025639.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "钱大妈（水岸豪门店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/4c6c6c110468a64c8b43107ff171f39167547.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "时鲜蔬果(东莞雁田市场店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/business/42f3a8863c8d48ce40e7389a288b886f134133.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "暖芯鲜果园",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/9097388d37d49cdc5e79767f9bf661b533771.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "都市果咖",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      },
+      {
+        "activityId": 100,
+        "iconUrl": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+        "info": "实际支付20元返12元商家代金券",
+        "promotionType": 2
+      },
+      {
+        "activityId": -2,
+        "iconUrl": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+        "info": "本店支持开发票，开票金额0元起",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/9097388d37d49cdc5e79767f9bf661b533771.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "都市果咖",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/431b4117fef3d0fbebfeb11f4ae29d0971424.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "百果园(东莞雁田怡安路店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/eaf4139fa37da583eb792b94792657be62615.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "新进优鲜(雁田市场店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/b90a161595f658f01dbfccbf1f7d916028660.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "菜小乖（官井头市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/ziruzhu/a89ff20e172ba183ead4d375124732a850641.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "万千生鲜（凤岗店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0b06df7c374afbff83f06205e7a01b7025639.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "钱大妈（水岸豪门店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/xianfu/4d6dbf58b328f8f6ba41987d53d6b76f49181.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "菜老包（雁田市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/0a705a87fe0b25b7645b3f888f679ac071703.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "环球蔬果汇（东莞油甘埔市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/4c6c6c110468a64c8b43107ff171f39167547.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "时鲜蔬果(东莞雁田市场店)",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p0.meituan.net/waimaipoi/7082a26dc97fcfc0093bfd68b716627a76785.jpg@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "蔬菜鲜生（平湖农贸蔬果市场店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  },
+  {
+    "address": "",
+    "averagePriceTip": "",
+    "deliveryTimeTip": "30分钟",
+    "deliveryType": 1,
+    "discounts2": [
+      {
+        "activityId": 17,
+        "iconUrl": "http://p0.meituan.net/activityconfig/3da2d9c7a4ddf89e4e71cfdfff168c391088.png",
+        "info": "折扣商品4.39折起",
+        "promotionType": 2
+      },
+      {
+        "activityId": 103,
+        "iconUrl": "http://p1.meituan.net/activityconfig/3fc360f1c726e7148380f4c77fa303fd1475.png",
+        "info": "领15元券;领20元券;领25元券",
+        "promotionType": 2
+      }
+    ],
+    "distance": "380m",
+    "minPriceTip": "起送 ¥25",
+    "monthSalesTip": "月售200+",
+    "mtWmPoiId": "1080675105916369",
+    "picUrl": "http://p1.meituan.net/waimaipoi/431b4117fef3d0fbebfeb11f4ae29d0971424.png@180w_132h_1e_1c",
+    "poiTypeIcon": "",
+    "shippingFeeTip": "配送 ¥5",
+    "shipping_time": "",
+    "shopName": "百果园（东莞翠湖豪苑店）",
+    "status": 1,
+    "statusDesc": "",
+    "wmPoiScore": 43
+  }
+]
