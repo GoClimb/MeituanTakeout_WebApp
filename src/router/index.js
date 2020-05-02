@@ -31,8 +31,8 @@ const routes = [
     component: () => import('@/views/Food')
   },
   {
-    path: '/menu',
-    component: () => import('@/views/Menu')
+    path: '/details',
+    component: () => import('@/views/Details')
   },
   {
     path: '/search',

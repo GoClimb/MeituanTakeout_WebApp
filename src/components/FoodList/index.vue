@@ -1,7 +1,7 @@
 <template>
   <div class="page-foodlist">
     <ul>
-      <li v-for='item in info' :key='item.shopName'>
+      <li v-for='item in info' :key='item.shopName' @click='toDetails'>
         <div class="foodlist-logo">
           <img
             :src="item.picUrl"
@@ -70,6 +70,12 @@ export default {
       } else {
         return index1 + '.' + index2
       }
+    }
+  },
+
+  methods: {
+    toDetails () {
+      this.$router.push('/details')
     }
   }
 
