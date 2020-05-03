@@ -1,0 +1,296 @@
+{
+  "categoryList": [
+    {
+      "activityTag": "",
+      "categoryName": "热销",
+      "categoryType": 1,
+      "end": true,
+      "iconUrl": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+      "nextPageIndex": 0,
+      "spuList": [
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "discount",
+          "activityType": 1,
+          "bigImageUrl": "http://p1.meituan.net/xianfu/11daa06ba3895630b988fb3f02d9042a200485.jpg",
+          "currentPrice": 5,
+          "littleImageUrl": "http://p1.meituan.net/xianfu/11daa06ba3895630b988fb3f02d9042a200485.jpg",
+          "originPrice": 22.5,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞21",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售300",
+          "sellStatus": 0,
+          "skuList": [],
+          "spuAttrList": [],
+          "spuDesc": "麦辣鸡腿汉堡1份↵原材料：面包,生菜条,鸡肉,风味酱",
+          "spuId": 2380940749,
+          "spuName": "麦辣鸡腿汉堡",
+          "spuPromotionInfo": "2.22折 限1份",
+          "statusDesc": "",
+          "tag": "135039446",
+          "unit": ""
+        },
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "",
+          "activityType": 0,
+          "bigImageUrl": "http://p0.meituan.net/xianfu/de43b3b174b6339e917f653c688bdf34169872.jpg",
+          "currentPrice": 13,
+          "littleImageUrl": "http://p0.meituan.net/xianfu/de43b3b174b6339e917f653c688bdf34169872.jpg",
+          "originPrice": 13,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞4",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售200",
+          "sellStatus": 0,
+          "skuList": [],
+          "spuAttrList": [],
+          "spuDesc": "2块麦辣鸡翅↵原材料：鸡肉",
+          "spuId": 2380902943,
+          "spuName": "麦辣鸡翅2块",
+          "spuPromotionInfo": "",
+          "statusDesc": "",
+          "tag": "135039447",
+          "unit": ""
+        },
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "",
+          "activityType": 0,
+          "bigImageUrl": "http://p0.meituan.net/xianfu/7e31f57b0947ff547fe0bc411b33c440166088.jpg",
+          "currentPrice": 14.5,
+          "littleImageUrl": "http://p0.meituan.net/xianfu/7e31f57b0947ff547fe0bc411b33c440166088.jpg",
+          "originPrice": 14.5,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞6",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售100",
+          "sellStatus": 0,
+          "skuList": [],
+          "spuAttrList": [],
+          "spuDesc": "麦麦脆汁鸡(鸡腿)1块↵原材料：水,植物油,裹粉,浆粉​,鸡琵琶腿,复合调味料,蚕豆粉",
+          "spuId": 2382361984,
+          "spuName": "麦麦脆汁鸡(鸡腿)1块",
+          "spuPromotionInfo": "",
+          "statusDesc": "",
+          "tag": "143269363",
+          "unit": ""
+        },
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "",
+          "activityType": 0,
+          "bigImageUrl": "http://p1.meituan.net/xianfu/79b3a1d4353230b7da7196cc31ddce05118992.jpg",
+          "currentPrice": 13,
+          "littleImageUrl": "http://p1.meituan.net/xianfu/79b3a1d4353230b7da7196cc31ddce05118992.jpg",
+          "originPrice": 13,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞2",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售100",
+          "sellStatus": 0,
+          "skuList": [],
+          "spuAttrList": [],
+          "spuDesc": "麦乐鸡5块↵原材料：鸡肉",
+          "spuId": 2380944840,
+          "spuName": "麦乐鸡5块",
+          "spuPromotionInfo": "",
+          "statusDesc": "",
+          "tag": "135039447",
+          "unit": ""
+        },
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "",
+          "activityType": 0,
+          "bigImageUrl": "http://p1.meituan.net/xianfu/99f91729ebc66e60d2202a9e226a3b57202022.jpg",
+          "currentPrice": 22.5,
+          "littleImageUrl": "http://p1.meituan.net/xianfu/99f91729ebc66e60d2202a9e226a3b57202022.jpg",
+          "originPrice": 22.5,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞2",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售88",
+          "sellStatus": 0,
+          "skuList": [
+          ],
+          "spuAttrList": [],
+          "spuDesc": "板烧鸡腿堡1份↵原材料：面包,生菜条,鸡肉,风味酱",
+          "spuId": 2380942203,
+          "spuName": "板烧鸡腿堡",
+          "spuPromotionInfo": "",
+          "statusDesc": "",
+          "tag": "135039446",
+          "unit": ""
+        },
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "",
+          "activityType": 0,
+          "bigImageUrl": "http://p0.meituan.net/xianfu/817895e8c515605b528fba0a26761ad0193075.jpg",
+          "currentPrice": 15,
+          "littleImageUrl": "http://p0.meituan.net/xianfu/817895e8c515605b528fba0a26761ad0193075.jpg",
+          "originPrice": 15,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞2",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售68",
+          "sellStatus": 0,
+          "skuList": [
+            {
+              "activityStock": 0,
+              "boxFee": 0,
+              "count": 0,
+              "currentPrice": 15,
+              "minPurchaseNum": -1,
+              "originPrice": 15,
+              "realStock": 9925,
+              "restrict": -1,
+              "skuId": 2699060796,
+              "skuPromotionInfo": "",
+              "soldStatus": 0,
+              "spec": "金黄脆薯格"
+            }
+          ],
+          "spuAttrList": [],
+          "spuDesc": "金黄脆薯格1份",
+          "spuId": 2380964276,
+          "spuName": "金黄脆薯格",
+          "spuPromotionInfo": "",
+          "statusDesc": "",
+          "tag": "135039447",
+          "unit": ""
+        },
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "",
+          "activityType": 0,
+          "bigImageUrl": "http://p0.meituan.net/xianfu/a29f62bbe030d617d1b315cb1c2b5b66166430.jpg",
+          "currentPrice": 14,
+          "littleImageUrl": "http://p0.meituan.net/xianfu/a29f62bbe030d617d1b315cb1c2b5b66166430.jpg",
+          "originPrice": 14,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞2",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售67",
+          "sellStatus": 0,
+          "skuList": [
+            {
+              "activityStock": 0,
+              "boxFee": 0,
+              "count": 0,
+              "currentPrice": 14,
+              "minPurchaseNum": -1,
+              "originPrice": 14,
+              "realStock": 9929,
+              "restrict": -1,
+              "skuId": 2699054240,
+              "skuPromotionInfo": "",
+              "soldStatus": 0,
+              "spec": "份"
+            }
+          ],
+          "spuAttrList": [],
+          "spuDesc": "椒盐金脆鸡翅2块↵原材料：鸡肉",
+          "spuId": 2380960451,
+          "spuName": "椒盐金脆鸡翅一对",
+          "spuPromotionInfo": "",
+          "statusDesc": "",
+          "tag": "135039447",
+          "unit": ""
+        },
+        {
+          "activityTag": "discount",
+          "activityType": 1,
+          "bigImageUrl": "http://p0.meituan.net/xianfu/d7513be62d67d1363ce89599208ee1dd387300.jpg",
+          "currentPrice": 49,
+          "littleImageUrl": "http://p0.meituan.net/xianfu/d7513be62d67d1363ce89599208ee1dd387300.jpg",
+          "originPrice": 95,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞1",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售63",
+          "sellStatus": 0,
+          "skuList": [
+            {
+              "activityStock": 9954,
+              "boxFee": 0,
+              "count": 0,
+              "currentPrice": 49,
+              "minPurchaseNum": -1,
+              "originPrice": 95,
+              "realStock": 9954,
+              "restrict": -1,
+              "skuId": 2723749213,
+              "skuPromotionInfo": "5.16折",
+              "soldStatus": 0,
+              "spec": "辣腿板烧双人餐特价"
+            }
+          ],
+          "spuAttrList": [],
+          "spuDesc": "麦辣鸡腿堡1个＋板烧鸡腿堡1个＋中薯条1份＋黄金脆薯格1份＋中可乐2杯",
+          "spuId": 2401966397,
+          "spuName": "辣腿板烧双人餐特价",
+          "spuPromotionInfo": "5.16折",
+          "statusDesc": "",
+          "tag": "135039445",
+          "unit": ""
+        }
+      ],
+      "tag": "100"
+    },
+    {
+      "activityTag": "",
+      "categoryName": "热销",
+      "categoryType": 1,
+      "end": true,
+      "iconUrl": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+      "nextPageIndex": 0,
+      "spuList": [
+        {
+          "activityPolicy": {
+            "discountByCount": { "count": 0, "discount": 1 }
+          },
+          "activityTag": "discount",
+          "activityType": 1,
+          "bigImageUrl": "http://p1.meituan.net/xianfu/11daa06ba3895630b988fb3f02d9042a200485.jpg",
+          "currentPrice": 5,
+          "littleImageUrl": "http://p1.meituan.net/xianfu/11daa06ba3895630b988fb3f02d9042a200485.jpg",
+          "originPrice": 22.5,
+          "praiseNum": 0,
+          "praiseNumDecoded": "赞21",
+          "saleVolume": 0,
+          "saleVolumeDecoded": "月售300",
+          "sellStatus": 0,
+          "skuList": [],
+          "spuAttrList": [],
+          "spuDesc": "麦辣鸡腿汉堡1份↵原材料：面包,生菜条,鸡肉,风味酱",
+          "spuId": 2380940749,
+          "spuName": "麦辣鸡腿汉堡",
+          "spuPromotionInfo": "2.22折 限1份",
+          "statusDesc": "",
+          "tag": "135039446",
+          "unit": ""
+        }
+      ],
+      "tag": "100"
+    }
+  ],
+
+
+}
